@@ -1,6 +1,6 @@
 # My homepage
 
-> Written with helps <img src="./nextdotjs.svg"/>, <img src="./chakraui.svg"/>, <img src="./typescript.svg"/>, <img src="./threedotjs.svg"/> and styled-components.
+> Written with helps <img src="./next.svg"/>, <img src="./chakraui.svg"/>, <img src="./typescript.svg"/>, <img src="./threedotjs.svg"/> and styled-components.
 
 > You can see my [homepage](https://www.ikbkr.site).
 
